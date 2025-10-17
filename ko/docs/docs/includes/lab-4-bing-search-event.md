@@ -193,4 +193,4 @@ Azure AI Foundry에는 에이전트 앱과 상호 작용하고 다양한 쿼리�
 
 Playground를 사용하여 다양한 쿼리를 테스트하고 에이전트가 어떻게 응답하는지 관찰하세요. 터미널에서 사용한 것과 동일한 쿼리를 재사용하거나 새로운 쿼리를 시도할 수 있습니다. 에이전트는 Tents Data Sheet 및 Bing Search에서 정보를 가져오지만 로컬 앱 버전과 달리 Contoso 판매 데이터베이스에는 액세스할 수 없다는 점을 명심하세요.
 
-![Azure AI Foundry Playground](../media/agents-playground.png)
+![Azure AI Foundry Playground](../../../../docs/docs/media/agents-playground.png)

@@ -4,7 +4,7 @@
 
 여러분이 아웃도어 장비를 판매하는 다국적 소매 회사인 Contoso의 영업 관리자라고 상상해 보세요. 트렌드를 파악하고, 고객 선호도를 이해하며, 정보에 기반한 비즈니스 의사결정을 내리기 위해 판매 데이터를 분석해야 합니다. 이를 돕기 위해 Contoso는 판매 데이터에 대한 질문에 답변할 수 있는 대화형 Agent(에이전트)를 개발했습니다.
 
-![Contoso Sales Analysis Agent](media/persona.png)
+![Contoso Sales Analysis Agent](../../../docs/docs/media/persona.png)
 
 ## LLM 기반 AI Agent란 무엇인가요?
 
@@ -18,7 +18,7 @@ Large Language Model(LLM, 대규모 언어 모델) 기반 AI Agent는 사전에 
 
 [Azure AI Foundry](https://azure.microsoft.com/products/ai-foundry/){:target="_blank"}는 AI 앱과 Agent를 설계, 커스터마이징 및 관리하기 위한 Microsoft의 안전하고 유연한 플랫폼입니다. 모델, Agent, 도구 및 observability(관찰 가능성) 등 모든 것이 단일 포털, SDK 및 REST endpoint 뒤에 있어, 첫날부터 거버넌스와 비용 통제를 갖춘 상태로 클라우드나 엣지에 배포할 수 있습니다.
 
-![Azure AI Foundry Architecture](media/azure-ai-foundry.png)
+![Azure AI Foundry Architecture](../../../docs/docs/media/azure-ai-foundry.png)
 
 ## Foundry Agent Service란 무엇인가요?
 

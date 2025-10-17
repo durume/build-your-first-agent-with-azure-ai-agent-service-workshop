@@ -23,7 +23,7 @@
 
 1. 터미널 창을 엽니다. 터미널 앱은 Windows 11 작업 표시줄에 **고정**되어 있습니다.
 
-    ![Open the terminal window](../media/windows-taskbar.png){ width="300" }
+    ![Open the terminal window](../../../../docs/docs/media/windows-taskbar.png){ width="300" }
 
 2. 다음 명령을 실행하여 Azure로 인증합니다:
 
@@ -111,14 +111,14 @@ Visual Studio Code에서 워크샵을 열려면 다음 단계를 따르세요:
 
 1. [Azure AI Foundry](https://ai.azure.com){:target="_blank"} 웹사이트로 이동합니다.
 2. **로그인**을 선택하고 랩 환경의 **Resources** 탭 **상단 섹션**에 있는 **Username**과 **Password**를 사용합니다. **Username**과 **Password** 필드를 클릭하면 로그인 세부 정보가 자동으로 채워집니다.
-    ![Azure credentials](../media/azure-credentials.png){:width="500"}
+    ![Azure credentials](../../../../docs/docs/media/azure-credentials.png){:width="500"}
 3. Azure AI Foundry 소개를 읽고 **확인**을 클릭합니다.
 4. [All Resources](https://ai.azure.com/AllResources){:target="_blank"}로 이동하여 사전 프로비저닝된 AI 리소스 목록을 확인합니다.
 5. **prj-contoso-agent-nnnnnn**으로 시작하는 리소스 이름을 선택합니다.
 6. 소개 가이드를 검토하고 **닫기**를 클릭합니다.
 7. **Overview** 사이드바 메뉴에서 **Endpoints and keys** -> **Libraries** -> **Azure AI Foundry** 섹션을 찾아 **Copy** 아이콘을 클릭하여 **Azure AI Foundry 프로젝트 엔드포인트**를 복사합니다.
 
-    ![Copy connection string](../media/project-connection-string.png){:width="500"}
+    ![Copy connection string](../../../../docs/docs/media/project-connection-string.png){:width="500"}
 
 === "Python"
 
@@ -156,7 +156,7 @@ Visual Studio Code에서 워크샵을 열려면 다음 단계를 따르세요:
     8. **shared/files** 폴더: 에이전트 앱에서 생성한 파일이 포함되어 있습니다.
     9. **shared/instructions** 폴더: LLM (대규모 언어 모델)에 전달되는 지침이 포함되어 있습니다.
 
-    ![Lab folder structure](../media/project-structure-self-guided-python.png)
+    ![Lab folder structure](../../../../docs/docs/media/project-structure-self-guided-python.png)
 
 === "C#"
 
@@ -196,7 +196,7 @@ Visual Studio Code에서 워크샵을 열려면 다음 단계를 따르세요:
     - **fonts** 폴더: Code Interpreter (코드 인터프리터)에서 사용하는 다국어 글꼴이 포함되어 있습니다.
     - **instructions** 폴더: LLM (대규모 언어 모델)에 전달되는 지침이 포함되어 있습니다.
 
-    ![Lab folder structure](../media/project-structure-self-guided-csharp.png)
+    ![Lab folder structure](../../../../docs/docs/media/project-structure-self-guided-csharp.png)
 
 ## 유용한 팁
 

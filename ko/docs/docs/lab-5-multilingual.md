@@ -23,7 +23,7 @@ Grounding with Documents(문서를 통한 접지) 실습에서는 대화의 cont
 
 작업이 완료되면 pie chart 이미지가 **shared/files** 하위 폴더에 저장됩니다. 시각화를 검토하면 텍스트가 올바르게 렌더링되지 않은 것을 볼 수 있습니다. 이는 Code Interpreter에 비라틴 문자를 렌더링하는 데 필요한 폰트가 없기 때문입니다.
 
-![The image shows korean pie chart without Korean text](media/sales_by_region_2022_pie_chart_korean.png){width=75%}
+![The image shows korean pie chart without Korean text](../../../docs/docs/media/sales_by_region_2022_pie_chart_korean.png){width=75%}
 
 4. 완료되면 **exit**를 입력하여 Agent 리소스를 정리하고 앱을 중지하세요.
 
@@ -136,7 +136,7 @@ Grounding with Documents(문서를 통한 접지) 실습에서는 대화의 cont
 
     작업이 완료되면 pie chart 이미지가 **shared/files** 하위 폴더에 저장됩니다.
 
-    ![The image shows korean pie chart with Korean text](media/sales_by_region_pie_chart_korean_font.png){width=75%}
+    ![The image shows korean pie chart with Korean text](../../../docs/docs/media/sales_by_region_pie_chart_korean_font.png){width=75%}
 
 ## Code Interpreter 디버깅하기
 

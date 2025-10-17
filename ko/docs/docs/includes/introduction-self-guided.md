@@ -149,7 +149,7 @@ cd infra && ./deploy.sh
     - **fonts** 폴더: Code Interpreter (코드 인터프리터)에서 사용하는 다국어 글꼴이 포함되어 있습니다.
     - **instructions** 폴더: LLM (대규모 언어 모델)에 전달되는 지침이 포함되어 있습니다.
 
-    ![Lab folder structure](../media/project-structure-self-guided-python.png)
+    ![Lab folder structure](../../../../docs/docs/media/project-structure-self-guided-python.png)
 
 === "C#"
 
@@ -178,4 +178,4 @@ cd infra && ./deploy.sh
     - **fonts** 폴더: Code Interpreter (코드 인터프리터)에서 사용하는 다국어 글꼴이 포함되어 있습니다.
     - **instructions** 폴더: LLM (대규모 언어 모델)에 전달되는 지침이 포함되어 있습니다.
 
-    ![Lab folder structure](../media/project-structure-self-guided-csharp.png)
+    ![Lab folder structure](../../../../docs/docs/media/project-structure-self-guided-csharp.png)

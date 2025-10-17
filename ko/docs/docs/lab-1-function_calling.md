@@ -168,7 +168,7 @@ Agent 앱 내에서 함수 로직을 구현하는 것은 개발자의 몫입니�
 1. <kbd>F5</kbd>를 눌러 앱을 실행합니다.
 2. 터미널에서 앱이 시작되는 것을 볼 수 있으며, Agent 앱이 **Enter your query**(쿼리 입력)를 요청할 것입니다.
 
-    ![Agent App](./media/run-the-agent.png){:width="600"}
+    ![Agent App](../../../docs/docs/media/run-the-agent.png){:width="600"}
 
 ### Agent와 대화 시작하기
 
@@ -246,7 +246,7 @@ LLM이 데이터를 요청하는 방법을 관찰하려면 `sales_data.py`에 �
 
 !!! info "참고: 디버그 기능을 사용하려면 이전 실행을 종료하세요. 그런 다음 breakpoint를 설정하세요. 그런 다음 사이드바의 디버거 아이콘을 사용하여 애플리케이션을 실행하세요. 이렇게 하면 디버그 사이드바가 열려 스택 트레이스를 보고 실행을 단계별로 진행할 수 있습니다."
 
-![Breakpoint](./media/breakpoint.png){:width="600"}
+![Breakpoint](../../../docs/docs/media/breakpoint.png){:width="600"}
 
 ### 더 많은 질문하기
 
