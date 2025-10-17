@@ -21,3 +21,6 @@ appsettings.*.json
 src/workshop/[.][v]env/
 
 /src/shared/files
+
+# Claude Code
+.claude
